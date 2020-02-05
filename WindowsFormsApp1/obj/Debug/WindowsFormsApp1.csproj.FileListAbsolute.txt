@@ -1,0 +1,9 @@
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.XMLProj.resources
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ITI intake40\XML\XML Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

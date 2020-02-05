@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Name>Aliaa</Name>
+    <Address>Smouha</Address>
+    <Telephone>4249422</Telephone>
+  </Employee>
+  <Employee>
+    <Name>Ali</Name>
+    <Address>Smouha</Address>
+    <Telephone>123456</Telephone>
+  </Employee>
+  <Employee>
+    <Name>Shahenda</Name>
+    <Address>Mahtet MAsr</Address>
+    <Telephone>4249422</Telephone>
+  </Employee>
+  <Employee>
+    <Name>Abanob</Name>
+    <Address>testttttttttt</Address>
+    <Telephone>testttttttttttt</Telephone>
+  </Employee>
+  <Employee>
+    <Name>Andaleeb</Name>
+    <Address>Smouha</Address>
+    <Telephone>1234</Telephone>
+  </Employee>
+  <Employee>
+    <Name>testtt</Name>
+    <Address>t66</Address>
+    <Telephone>56</Telephone>
+  </Employee>
+  <Employee>
+    <Name>Mina</Name>
+    <Address>add</Address>
+    <Telephone>123454</Telephone>
+  </Employee>
+</Employees>
